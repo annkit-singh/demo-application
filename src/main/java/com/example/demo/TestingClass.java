@@ -7,8 +7,9 @@ public class TestingClass {
         System.out.println("System is active");
         new TestingClass().sayHello();
         aankit;
+        puneet;
         Jonar;
-
+        sharma;
 
     }
 
